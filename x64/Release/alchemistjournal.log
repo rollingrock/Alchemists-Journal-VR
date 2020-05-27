@@ -1,0 +1,11 @@
+﻿  main.cpp
+     Creating library C:\Users\rolli\source\repos\AlchemistJournal\x64\Release\alchemistjournal.lib and object C:\Users\rolli\source\repos\AlchemistJournal\x64\Release\alchemistjournal.exp
+  Generating code
+  3 of 1015 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+detours.lib(detours.obj) : warning LNK4099: PDB 'detours.pdb' was not found with 'detours.lib(detours.obj)' or at 'C:\Users\rolli\source\repos\AlchemistJournal\x64\Release\detours.pdb'; linking object as if no debug info
+detours.lib(modules.obj) : warning LNK4099: PDB 'detours.pdb' was not found with 'detours.lib(modules.obj)' or at 'C:\Users\rolli\source\repos\AlchemistJournal\x64\Release\detours.pdb'; linking object as if no debug info
+detours.lib(disasm.obj) : warning LNK4099: PDB 'detours.pdb' was not found with 'detours.lib(disasm.obj)' or at 'C:\Users\rolli\source\repos\AlchemistJournal\x64\Release\detours.pdb'; linking object as if no debug info
+  alchemistjournal.vcxproj -> C:\Users\rolli\source\repos\AlchemistJournal\x64\Release\alchemistjournal.dll
