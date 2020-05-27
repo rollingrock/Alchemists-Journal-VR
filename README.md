@@ -1,6 +1,6 @@
 # Alchemists-Journal-VR
 
-This is a port of https://www.nexusmods.com/skyrimspecialedition/mods/28273?tab=posts&BH=3 for SSE to work in Skyrim VR.
+This is a port of https://www.nexusmods.com/skyrimspecialedition/mods/28273 for SSE to work in Skyrim VR.
 
 # Install
 
